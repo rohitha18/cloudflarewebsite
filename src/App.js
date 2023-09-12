@@ -9,7 +9,7 @@ function App() {
       <Typography variant="h4" align="center" gutterBottom>
         
       </Typography>
- <h1> hi my name is Rohitha Madduluri</h1>
+ <h1> hi my name is Rohitha Madduluri.</h1>
     </Container>
   );
 }
